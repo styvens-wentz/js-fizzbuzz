@@ -32,4 +32,4 @@ var fizzbuzz = function (x) {
 
 };
 
-module.export = { fizzbuzz: fizzbuzz };
+module.exports = { fizzbuzz: fizzbuzz };
